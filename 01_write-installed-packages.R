@@ -1,3 +1,10 @@
+#' ---
+#' title: "01_write-installed-packages.R"
+#' output:
+#' html_document:
+#' keep_md: yes
+#' ---
+
 ## deja vu from earlier!
 
 library(tidyverse)
